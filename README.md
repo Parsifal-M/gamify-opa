@@ -1,2 +1,2 @@
-# gamify-opa
+# opa-barista
 Gamify-ing OPA and Rego
