@@ -1,7 +1,6 @@
 {
     "Order": {
         "Drink": "Cappuccino",
-        "Size": "Extra Large",
-        "Milk": "Soy Milk"
+        "Size": "Extra Large"
     }
 }
