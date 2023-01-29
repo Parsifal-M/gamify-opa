@@ -1,2 +1,3 @@
 # opa-barista
-Gamify-ing OPA and Rego
+
+Jump starting an idea to somehow gamify learning OPA.
